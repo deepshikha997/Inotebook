@@ -1,5 +1,10 @@
-# Created Inotebook 
-Using React and Node.js
+<div id="top"></div>
+
+<br />
+<div align="center">
+  <p align="center">
+    INotebook - Your Notebook on the cloud
+    <br />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
